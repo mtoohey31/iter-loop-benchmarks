@@ -1,0 +1,4 @@
+github.com/barweiss/go-tuple v0.0.0-20220101222006-ee01a9510b0b h1:R//jzRU06VZMRo3mfS2JRj6a1BEYCkablGZM8vABVVo=
+github.com/barweiss/go-tuple v0.0.0-20220101222006-ee01a9510b0b/go.mod h1:T1es5bACVg1AF7JmHoY8evrLJWN+6UKg5AeTXLthx1g=
+mtoohey.com/iter v0.2.0-alpha h1:HYuv6h/rwdzMdGoh/xlFFMi1sGB+LdTLaZKaqQHyfVw=
+mtoohey.com/iter v0.2.0-alpha/go.mod h1:oVg7e4kdBPgzD7RXaIpPvprYmS8abRreQqMFS+71lhY=
